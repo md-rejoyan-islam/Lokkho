@@ -1,0 +1,1204 @@
+[
+  {
+    "title": "Assistant Commissioner (BCS Administration)",
+    "organization": "Bangladesh Public Service Commission (BPSC)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Administration",
+    "qualification": "Bachelor's degree (any discipline)",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "BCS পরীক্ষার মাধ্যমে প্রশাসন ক্যাডারে নিয়োগ। মাঠ প্রশাসনে AC/UNO হিসেবে কর্মজীবন শুরু।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "bpsc.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "administration",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Superintendent of Police (BCS Police)",
+    "organization": "Bangladesh Public Service Commission (BPSC)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Police",
+    "qualification": "Bachelor's degree; physical fitness standards",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "BCS পুলিশ ক্যাডার — ASP হিসেবে নিয়োগ।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "bpsc.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "police",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Tax Commissioner (BCS Taxation)",
+    "organization": "National Board of Revenue (NBR)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Taxation",
+    "qualification": "Bachelor's degree (any discipline)",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "আয়কর বিভাগে BCS (কর) ক্যাডার পদ।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "nbr.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "tax",
+      "NBR",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Commissioner of Customs (BCS Customs & Excise)",
+    "organization": "National Board of Revenue (NBR)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Customs & Excise",
+    "qualification": "Bachelor's degree (any discipline)",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "BCS (শুল্ক ও আবগারি) ক্যাডার।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "nbr.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "customs",
+      "pension"
+    ]
+  },
+  {
+    "title": "Lecturer (BCS General Education)",
+    "organization": "Directorate of Secondary & Higher Education (DSHE)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Education",
+    "qualification": "Master's degree in relevant subject",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "সরকারি কলেজে প্রভাষক হিসেবে BCS শিক্ষা ক্যাডার নিয়োগ।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "dshe.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "education",
+      "lecturer",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Surgeon (BCS Health)",
+    "organization": "Directorate General of Health Services (DGHS)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "BCS - Health",
+    "qualification": "MBBS / BDS with BMDC registration",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "BCS স্বাস্থ্য ক্যাডার — সহকারী সার্জন।",
+    "applyLink": "http://bpsc.teletalk.com.bd",
+    "source": "dghs.gov.bd",
+    "tags": [
+      "BCS",
+      "cadre",
+      "health",
+      "doctor",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Teacher (Government Primary School)",
+    "organization": "Directorate of Primary Education (DPE)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Primary Education",
+    "qualification": "Bachelor's degree (HSC for some quotas)",
+    "ageLimit": "21-30 years",
+    "salaryScale": "Grade 13 — ৳11,000-26,590",
+    "description": "সরকারি প্রাথমিক বিদ্যালয়ে সহকারী শিক্ষক নিয়োগ — দেশের সবচেয়ে বড় নিয়োগগুলোর একটি।",
+    "applyLink": "http://dpe.teletalk.com.bd",
+    "source": "dpe.gov.bd",
+    "tags": [
+      "primary",
+      "teacher",
+      "DPE",
+      "pension"
+    ]
+  },
+  {
+    "title": "Registered Teacher (School/College/Madrasah)",
+    "organization": "NTRCA — Non-Govt Teachers' Registration & Certification Authority",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "NTRCA Teaching",
+    "qualification": "Relevant degree + NTRCA registration (preliminary, written, viva)",
+    "ageLimit": "Up to 35 years (varies)",
+    "salaryScale": "MPO scale (govt part of salary)",
+    "description": "বেসরকারি শিক্ষাপ্রতিষ্ঠানে শিক্ষক নিবন্ধনের মাধ্যমে নিয়োগ (e-requisition)।",
+    "applyLink": "http://ngi.teletalk.com.bd",
+    "source": "ntrca.gov.bd",
+    "tags": [
+      "NTRCA",
+      "teacher",
+      "MPO"
+    ]
+  },
+  {
+    "title": "Sub-Assistant Engineer / Station Master",
+    "organization": "Bangladesh Railway",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Railway",
+    "qualification": "Diploma/Bachelor's depending on post",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 10-14 (post-wise)",
+    "description": "বাংলাদেশ রেলওয়ের বিভিন্ন কারিগরি ও পরিচালন পদে নিয়োগ।",
+    "applyLink": "http://br.teletalk.com.bd",
+    "source": "railway.gov.bd",
+    "tags": [
+      "railway",
+      "technical",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Director (General)",
+    "organization": "Bangladesh Bank (Central Bank)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Central Banking",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "21-30 years (quota varies)",
+    "salaryScale": "Grade 9 equivalent — ৳22,000+ scale",
+    "description": "কেন্দ্রীয় ব্যাংকে সহকারী পরিচালক — BSCS (Bankers' Selection Committee) এর মাধ্যমে নিয়োগ।",
+    "applyLink": "http://erecruitment.bb.org.bd",
+    "source": "bb.org.bd",
+    "tags": [
+      "bank",
+      "central-bank",
+      "officer",
+      "pension"
+    ]
+  },
+  {
+    "title": "Senior Officer / Officer (Cash)",
+    "organization": "Sonali Bank PLC",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "State-owned Bank",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale (CPF + gratuity)",
+    "description": "রাষ্ট্রায়ত্ত ব্যাংকে অফিসার/সিনিয়র অফিসার — BSCS কম্বাইন্ড নিয়োগ।",
+    "applyLink": "https://erecruitment.bb.org.bd",
+    "source": "sonalibank.com.bd",
+    "tags": [
+      "bank",
+      "officer",
+      "BSCS"
+    ]
+  },
+  {
+    "title": "Officer / Senior Officer",
+    "organization": "Janata Bank PLC",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "State-owned Bank",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale (CPF + gratuity)",
+    "description": "রাষ্ট্রায়ত্ত ব্যাংকে অফিসার পদে নিয়োগ।",
+    "applyLink": "https://erecruitment.bb.org.bd",
+    "source": "jb.com.bd",
+    "tags": [
+      "bank",
+      "officer",
+      "BSCS"
+    ]
+  },
+  {
+    "title": "Officer (General/Cash)",
+    "organization": "Agrani Bank PLC",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "State-owned Bank",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale",
+    "description": "অগ্রণী ব্যাংকে অফিসার নিয়োগ।",
+    "applyLink": "https://erecruitment.bb.org.bd",
+    "source": "agranibank.org",
+    "tags": [
+      "bank",
+      "officer",
+      "BSCS"
+    ]
+  },
+  {
+    "title": "Senior Officer",
+    "organization": "Bangladesh Krishi Bank (BKB)",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Specialized Bank",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale",
+    "description": "কৃষি ব্যাংকে সিনিয়র অফিসার নিয়োগ।",
+    "applyLink": "https://erecruitment.bb.org.bd",
+    "source": "krishibank.org.bd",
+    "tags": [
+      "bank",
+      "krishi",
+      "officer"
+    ]
+  },
+  {
+    "title": "Commissioned Officer / Soldier",
+    "organization": "Bangladesh Army",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Defense",
+    "qualification": "SSC/HSC/Graduate depending on entry (ISSB for officers)",
+    "ageLimit": "16.5-23 years (entry-wise)",
+    "salaryScale": "Defense pay scale + ration & allowances",
+    "description": "সেনাবাহিনীতে কমিশন্ড অফিসার ও সৈনিক পদে নিয়োগ।",
+    "applyLink": "https://joinbangladesharmy.army.mil.bd",
+    "source": "army.mil.bd",
+    "tags": [
+      "defense",
+      "army",
+      "pension"
+    ]
+  },
+  {
+    "title": "Officer / Sailor",
+    "organization": "Bangladesh Navy",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Defense",
+    "qualification": "HSC/Graduate depending on branch",
+    "ageLimit": "16.5-21 years (entry-wise)",
+    "salaryScale": "Defense pay scale + allowances",
+    "description": "নৌবাহিনীতে অফিসার ও নাবিক পদে নিয়োগ।",
+    "applyLink": "https://joinnavy.navy.mil.bd",
+    "source": "navy.mil.bd",
+    "tags": [
+      "defense",
+      "navy",
+      "pension"
+    ]
+  },
+  {
+    "title": "Officer / Airman",
+    "organization": "Bangladesh Air Force",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Defense",
+    "qualification": "HSC/Graduate depending on branch",
+    "ageLimit": "16.5-22 years (entry-wise)",
+    "salaryScale": "Defense pay scale + allowances",
+    "description": "বিমান বাহিনীতে অফিসার ও এয়ারম্যান নিয়োগ।",
+    "applyLink": "https://joinbangladeshairforce.baf.mil.bd",
+    "source": "baf.mil.bd",
+    "tags": [
+      "defense",
+      "airforce",
+      "pension"
+    ]
+  },
+  {
+    "title": "Sub-Inspector (SI) / Constable",
+    "organization": "Bangladesh Police",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Law Enforcement",
+    "qualification": "HSC (constable) / Graduate (SI); physical standards",
+    "ageLimit": "19-27 years (post-wise)",
+    "salaryScale": "Grade 10 (SI) / Grade 17 (constable)",
+    "description": "পুলিশ বাহিনীতে এসআই ও কনস্টেবল পদে নিয়োগ।",
+    "applyLink": "http://police.teletalk.com.bd",
+    "source": "police.gov.bd",
+    "tags": [
+      "police",
+      "law-enforcement",
+      "pension"
+    ]
+  },
+  {
+    "title": "Sepoy / Junior Officer",
+    "organization": "Border Guard Bangladesh (BGB)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Paramilitary",
+    "qualification": "SSC/HSC; physical fitness standards",
+    "ageLimit": "18-23 years",
+    "salaryScale": "Defense/paramilitary pay scale",
+    "description": "সীমান্ত রক্ষী বাহিনীতে সিপাহী নিয়োগ।",
+    "applyLink": "http://bgb.teletalk.com.bd",
+    "source": "bgb.gov.bd",
+    "tags": [
+      "paramilitary",
+      "BGB",
+      "pension"
+    ]
+  },
+  {
+    "title": "Ansar-VDP Member / Officer",
+    "organization": "Bangladesh Ansar & VDP",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Auxiliary Force",
+    "qualification": "SSC/HSC depending on post",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Govt pay scale (post-wise)",
+    "description": "আনসার ও ভিডিপি বাহিনীতে নিয়োগ।",
+    "applyLink": "http://ansarvdp.teletalk.com.bd",
+    "source": "ansarvdp.gov.bd",
+    "tags": [
+      "ansar",
+      "auxiliary",
+      "pension"
+    ]
+  },
+  {
+    "title": "Fire Fighter / Sub-Officer",
+    "organization": "Fire Service & Civil Defence",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Emergency Services",
+    "qualification": "SSC/HSC; physical standards",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 14-17 (post-wise)",
+    "description": "ফায়ার সার্ভিস ও সিভিল ডিফেন্সে নিয়োগ।",
+    "applyLink": "http://fscd.teletalk.com.bd",
+    "source": "fireservice.gov.bd",
+    "tags": [
+      "fire-service",
+      "emergency",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Engineer / Sub-Assistant Engineer",
+    "organization": "Bangladesh Rural Electrification Board (BREB)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Power & Energy",
+    "qualification": "B.Sc Engineering / Diploma (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 / Grade 10 (post-wise)",
+    "description": "পল্লী বিদ্যুতায়ন বোর্ড ও সমিতিতে প্রকৌশল পদে নিয়োগ।",
+    "applyLink": "http://brebhr.teletalk.com.bd",
+    "source": "reb.gov.bd",
+    "tags": [
+      "power",
+      "engineer",
+      "BREB",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Engineer (Civil)",
+    "organization": "Bangladesh Water Development Board (BWDB)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Water Resources",
+    "qualification": "B.Sc in Civil Engineering",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "পানি উন্নয়ন বোর্ডে সহকারী প্রকৌশলী নিয়োগ।",
+    "applyLink": "http://bwdb.teletalk.com.bd",
+    "source": "bwdb.gov.bd",
+    "tags": [
+      "water",
+      "civil-engineer",
+      "BWDB",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Engineer / Work Assistant",
+    "organization": "Roads & Highways Department (RHD)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Infrastructure",
+    "qualification": "B.Sc Engineering / Diploma (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9-16 (post-wise)",
+    "description": "সড়ক ও জনপথ বিভাগে নিয়োগ।",
+    "applyLink": "http://rhd.teletalk.com.bd",
+    "source": "rhd.gov.bd",
+    "tags": [
+      "roads",
+      "infrastructure",
+      "RHD",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Engineer / Sub-Assistant Engineer",
+    "organization": "Local Government Engineering Department (LGED)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Local Government",
+    "qualification": "B.Sc Engineering / Diploma (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 / Grade 10",
+    "description": "এলজিইডিতে প্রকৌশল ও কারিগরি পদে নিয়োগ।",
+    "applyLink": "http://lged.teletalk.com.bd",
+    "source": "lged.gov.bd",
+    "tags": [
+      "LGED",
+      "engineer",
+      "pension"
+    ]
+  },
+  {
+    "title": "Sub-Divisional Engineer / Assistant Engineer",
+    "organization": "Bangladesh Power Development Board (BPDB)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Power & Energy",
+    "qualification": "B.Sc Engineering",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 scale",
+    "description": "বিদ্যুৎ উন্নয়ন বোর্ডে প্রকৌশল পদে নিয়োগ।",
+    "applyLink": "http://bpdb.teletalk.com.bd",
+    "source": "bpdb.gov.bd",
+    "tags": [
+      "power",
+      "engineer",
+      "BPDB",
+      "pension"
+    ]
+  },
+  {
+    "title": "Officer / Assistant Officer",
+    "organization": "Titas Gas Transmission & Distribution Co. (Petrobangla)",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Oil, Gas & Energy",
+    "qualification": "Bachelor's/Engineering (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Corporation pay scale (CPF + gratuity)",
+    "description": "তিতাস গ্যাস ও পেট্রোবাংলার অধীন কোম্পানিতে নিয়োগ।",
+    "applyLink": "http://titasgas.teletalk.com.bd",
+    "source": "titasgas.gov.bd",
+    "tags": [
+      "gas",
+      "energy",
+      "petrobangla"
+    ]
+  },
+  {
+    "title": "Assistant Manager / Officer",
+    "organization": "Bangladesh Telecommunications Company Ltd (BTCL)",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Telecommunications",
+    "qualification": "Engineering/Bachelor's (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Company pay scale",
+    "description": "বিটিসিএলে কারিগরি ও প্রশাসনিক পদে নিয়োগ।",
+    "applyLink": "http://btcl.teletalk.com.bd",
+    "source": "btcl.gov.bd",
+    "tags": [
+      "telecom",
+      "BTCL"
+    ]
+  },
+  {
+    "title": "Ground Service / Officer (various)",
+    "organization": "Biman Bangladesh Airlines",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Aviation",
+    "qualification": "Post-wise (Bachelor's/technical)",
+    "ageLimit": "18-32 years",
+    "salaryScale": "Corporation pay scale",
+    "description": "জাতীয় পতাকাবাহী বিমান সংস্থায় বিভিন্ন পদে নিয়োগ।",
+    "applyLink": "http://bb-rec.teletalk.com.bd",
+    "source": "biman-airlines.com",
+    "tags": [
+      "aviation",
+      "biman"
+    ]
+  },
+  {
+    "title": "Statistical Officer / Enumerator",
+    "organization": "Bangladesh Bureau of Statistics (BBS)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Statistics & Planning",
+    "qualification": "Bachelor's degree (Statistics/Economics preferred)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9-16 (post-wise)",
+    "description": "পরিসংখ্যান ব্যুরোতে গবেষণা ও জরিপ সংক্রান্ত পদে নিয়োগ।",
+    "applyLink": "http://bbs.teletalk.com.bd",
+    "source": "bbs.gov.bd",
+    "tags": [
+      "statistics",
+      "BBS",
+      "pension"
+    ]
+  },
+  {
+    "title": "Postal Operator / Sorting Assistant",
+    "organization": "Bangladesh Postal Department",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Postal Services",
+    "qualification": "HSC/Bachelor's (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 14-16",
+    "description": "ডাক বিভাগে অপারেটর ও সহকারী পদে নিয়োগ।",
+    "applyLink": "http://bdpost.teletalk.com.bd",
+    "source": "bdpost.gov.bd",
+    "tags": [
+      "postal",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Director / Deputy Assistant Director",
+    "organization": "Anti-Corruption Commission (ACC)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Anti-Corruption / Investigation",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 scale",
+    "description": "দুর্নীতি দমন কমিশনে তদন্ত ও প্রশাসনিক পদে নিয়োগ।",
+    "applyLink": "http://acc.teletalk.com.bd",
+    "source": "acc.org.bd",
+    "tags": [
+      "ACC",
+      "investigation",
+      "pension"
+    ]
+  },
+  {
+    "title": "Office Sahayak / MLSS (Class IV)",
+    "organization": "Various Government Offices",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Support Staff",
+    "qualification": "Class 8 / SSC (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 20 — ৳8,250-20,010",
+    "description": "বিভিন্ন সরকারি দপ্তরে অফিস সহায়ক / এমএলএসএস পদে নিয়োগ।",
+    "applyLink": "https://alljobs.teletalk.com.bd",
+    "source": "mopa.gov.bd",
+    "tags": [
+      "support-staff",
+      "class-iv",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Judge (BJS)",
+    "organization": "Bangladesh Judicial Service Commission",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Judiciary",
+    "qualification": "LL.B; Bar enrollment for some",
+    "ageLimit": "21-32 years",
+    "salaryScale": "Judicial pay scale",
+    "description": "বিচার বিভাগীয় সার্ভিসে সহকারী জজ নিয়োগ (BJS পরীক্ষা)।",
+    "applyLink": "http://bjsc.teletalk.com.bd",
+    "source": "bjsc.gov.bd",
+    "tags": [
+      "judiciary",
+      "BJS",
+      "pension"
+    ]
+  },
+  {
+    "title": "Management Trainee Officer (MTO) / Probationary Officer",
+    "organization": "Private Commercial Banks (BRAC, DBBL, City, EBL etc.)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Private Banking",
+    "qualification": "Bachelor's/Master's with strong CGPA",
+    "ageLimit": "Up to 30 years (varies)",
+    "salaryScale": "৳40,000-60,000 starting (bank-wise) + PF + gratuity",
+    "description": "বেসরকারি ব্যাংকে MTO/PO হিসেবে নিয়োগ — competitive recruitment।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "private-bank",
+      "MTO",
+      "corporate"
+    ]
+  },
+  {
+    "title": "Program Officer / Field Officer",
+    "organization": "NGOs (BRAC, ASA, Grameen, TMSS etc.)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Development / NGO",
+    "qualification": "Bachelor's/Master's (development studies preferred)",
+    "ageLimit": "Up to 35 years (varies)",
+    "salaryScale": "৳25,000-50,000 (org-wise) + benefits",
+    "description": "উন্নয়ন সংস্থায় মাঠ ও প্রোগ্রাম পর্যায়ে নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "NGO",
+      "development"
+    ]
+  },
+  {
+    "title": "Software Engineer / IT Officer",
+    "organization": "Private IT & Software Companies",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "IT & Software",
+    "qualification": "CSE/IT degree or equivalent skills",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳30,000-1,20,000+ (skill & experience-wise)",
+    "description": "সফটওয়্যার ও আইটি কোম্পানিতে ডেভেলপার/ইঞ্জিনিয়ার পদে নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "IT",
+      "software",
+      "private"
+    ]
+  },
+  {
+    "title": "Executive / Officer (Sales, HR, Marketing)",
+    "organization": "Multinational & Local Corporates (telecom, FMCG, pharma)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Corporate / Private",
+    "qualification": "Bachelor's/MBA (post-wise)",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳30,000-80,000+ (company-wise) + PF + bonus",
+    "description": "Grameenphone, Robi, Square, Beximco ইত্যাদি কর্পোরেট প্রতিষ্ঠানে নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "corporate",
+      "MNC",
+      "private"
+    ]
+  },
+  {
+    "title": "Unilever Future Leaders Programme (UFLP) — Management Trainee",
+    "organization": "Unilever Bangladesh",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "FMCG (MNC)",
+    "qualification": "Bachelor's/Master's, শীর্ষ ফলাফল ও leadership",
+    "ageLimit": "Fresh graduate",
+    "salaryScale": "৳1,00,000+/মাস (entry leadership track) + PF + gratuity",
+    "description": "বিশ্বখ্যাত management trainee leadership program — দ্রুত পদোন্নতি।",
+    "applyLink": "https://careers.unilever.com",
+    "source": "careers.unilever.com",
+    "tags": [
+      "MNC",
+      "FMCG",
+      "management-trainee",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Global Graduate Programme",
+    "organization": "British American Tobacco (BAT) Bangladesh",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "FMCG (MNC)",
+    "qualification": "শীর্ষ ১% graduate; analytical ও leadership দক্ষতা",
+    "ageLimit": "Fresh graduate",
+    "salaryScale": "৳1,00,000–1,50,000+/মাস + PF + gratuity + car",
+    "description": "দেশের অন্যতম সর্বোচ্চ বেতনদাতা — ১২ মাসের future-leader program।",
+    "applyLink": "https://www.bat.com/careers",
+    "source": "bat.com",
+    "tags": [
+      "MNC",
+      "BAT",
+      "management-trainee",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Software Engineer (L3–L5)",
+    "organization": "Grameenphone (Telenor)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Telecom / IT (MNC)",
+    "qualification": "CSE/EEE; strong coding ও system design",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳90,000–3,00,000/মাস (level-wise) + PF + gratuity + bonus",
+    "description": "টেলিকম জায়ান্টে software engineering — level অনুযায়ী বেতন বাড়ে।",
+    "applyLink": "https://www.grameenphone.com/about/career",
+    "source": "grameenphone.com",
+    "tags": [
+      "telecom",
+      "IT",
+      "software",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Network / Telecom Engineer",
+    "organization": "Robi Axiata / Banglalink",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Telecom (MNC)",
+    "qualification": "EEE/ETE/CSE",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000–4,00,000/মাস (experience-wise) + PF + gratuity",
+    "description": "টেলিকম নেটওয়ার্ক পরিকল্পনা ও পরিচালনা।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "telecom",
+      "engineer",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Software Engineer (Fresher–Mid)",
+    "organization": "Brain Station 23 / Enosis / Cefalo / Vivasoft",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "IT / Software",
+    "qualification": "CSE/IT; coding test উত্তীর্ণ",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳50,000–1,50,000/মাস (skill-wise) + PF",
+    "description": "শীর্ষ সফটওয়্যার কোম্পানিতে ডেভেলপার — দ্রুত promotion cycle।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "IT",
+      "software",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer / Tech Lead",
+    "organization": "Optimizely / Therap / Selise (Int'l product cos)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "IT / Software (Product)",
+    "qualification": "CSE; ৪+ বছর অভিজ্ঞতা",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳2,00,000–5,00,000/মাস + PF + bonus",
+    "description": "আন্তর্জাতিক product company-তে সিনিয়র ইঞ্জিনিয়ারিং role।",
+    "applyLink": "https://www.linkedin.com/jobs",
+    "source": "linkedin.com",
+    "tags": [
+      "IT",
+      "senior",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Brand Manager",
+    "organization": "Unilever / Marico / Nestlé (FMCG MNC)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Marketing (FMCG)",
+    "qualification": "MBA (Marketing) + অভিজ্ঞতা",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000+/মাস + PF + gratuity + car",
+    "description": "ব্র্যান্ড কৌশল ও বিপণন ব্যবস্থাপনা।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "FMCG",
+      "marketing",
+      "manager",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Management Trainee Officer (MTO)",
+    "organization": "BRAC Bank / City Bank / EBL / DBBL (Private Bank)",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Private Banking",
+    "qualification": "Bachelor's/Master's, strong CGPA",
+    "ageLimit": "Up to ~30 years",
+    "salaryScale": "৳45,000–70,000/মাস (starting) + PF + gratuity + festival bonus",
+    "description": "বেসরকারি ব্যাংকের fast-track leadership track।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "private-bank",
+      "MTO",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Chartered Accountant (CA) — Manager/Finance",
+    "organization": "Audit Firms (KPMG/EY affiliates) & Corporates",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Finance / Accounting",
+    "qualification": "CA qualified (ICAB)",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000–5,00,000/মাস (experience-wise)",
+    "description": "দেশের সবচেয়ে বেশি বেতনের পেশাগুলোর একটি।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "icab.org.bd",
+    "tags": [
+      "finance",
+      "CA",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Product Manager / Medical Promotion Officer",
+    "organization": "Square / Incepta / Beximco / Renata Pharma",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Pharmaceutical",
+    "qualification": "Pharmacy/Science/MBBS (post-wise)",
+    "ageLimit": "Up to ~32 years",
+    "salaryScale": "৳25,000–1,50,000/মাস (post-wise) + incentive + PF",
+    "description": "ওষুধ শিল্পে product management ও বিপণন।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "pharma",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Data Scientist / Machine Learning Engineer",
+    "organization": "Fintech / Telecom / Tech companies",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "IT / Data",
+    "qualification": "CSE/Statistics; ML ও Python দক্ষতা",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000–5,00,000/মাস + PF",
+    "description": "ডেটা-চালিত সিদ্ধান্ত ও AI/ML সমাধান।",
+    "applyLink": "https://www.linkedin.com/jobs",
+    "source": "linkedin.com",
+    "tags": [
+      "IT",
+      "data-science",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Corporate Lawyer / Legal Counsel",
+    "organization": "Law Firms & Corporate Houses",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Legal",
+    "qualification": "LL.B/LL.M + Bar enrollment",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳2,00,000–5,00,000/মাস (অভিজ্ঞতা-ভিত্তিক)",
+    "description": "কর্পোরেট চুক্তি, compliance ও মামলা পরিচালনা।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "legal",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Programme Manager / Specialist",
+    "organization": "UN Agencies (UNDP/UNICEF/WHO) & INGOs",
+    "category": "non_government",
+    "pensionIncluded": true,
+    "sector": "Development / INGO",
+    "qualification": "Master's (development/relevant) + অভিজ্ঞতা",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000–4,00,000+/মাস + UN pension/benefits",
+    "description": "আন্তর্জাতিক উন্নয়ন সংস্থায় উচ্চ বেতন ও pension/superannuation সুবিধা।",
+    "applyLink": "https://jobs.undp.org",
+    "source": "un.org",
+    "tags": [
+      "INGO",
+      "UN",
+      "development",
+      "high-salary",
+      "pension"
+    ]
+  },
+  {
+    "title": "Senior Manager / DGM — Conglomerate",
+    "organization": "Beximco / Akij / PRAN-RFL / Bashundhara Group",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Corporate (Conglomerate)",
+    "qualification": "MBA + উল্লেখযোগ্য অভিজ্ঞতা",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,00,000–3,00,000/মাস + PF + gratuity + car",
+    "description": "বৃহৎ শিল্পগোষ্ঠীতে ব্যবস্থাপনা পর্যায়ের পদ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "corporate",
+      "senior-management",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Actuary / Investment Analyst",
+    "organization": "Insurance & Asset Management firms",
+    "category": "non_government",
+    "pensionIncluded": false,
+    "sector": "Finance / Insurance",
+    "qualification": "Actuarial/Finance qualification (CFA/Actuarial papers)",
+    "ageLimit": "No strict limit",
+    "salaryScale": "৳1,50,000–5,00,000/মাস",
+    "description": "ঝুঁকি ও বিনিয়োগ বিশ্লেষণ — বিশেষায়িত উচ্চ-বেতনের পেশা।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bdjobs.com",
+    "tags": [
+      "finance",
+      "actuary",
+      "high-salary"
+    ]
+  },
+  {
+    "title": "Assistant Programmer / Office Assistant",
+    "organization": "Bangladesh Election Commission Secretariat",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Election / Administration",
+    "qualification": "Bachelor's/Diploma (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9-16 (post-wise)",
+    "description": "নির্বাচন কমিশন সচিবালয় ও মাঠ পর্যায়ে নিয়োগ।",
+    "applyLink": "http://ecs.teletalk.com.bd",
+    "source": "ecs.gov.bd",
+    "tags": [
+      "election",
+      "EC",
+      "pension"
+    ]
+  },
+  {
+    "title": "Junior Officer / Recruit",
+    "organization": "Bangladesh Coast Guard",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Maritime Defense",
+    "qualification": "SSC/HSC/Graduate; physical standards",
+    "ageLimit": "18-23 years (entry-wise)",
+    "salaryScale": "Defense pay scale + allowances",
+    "description": "উপকূল রক্ষী বাহিনীতে নিয়োগ।",
+    "applyLink": "http://cgentry.teletalk.com.bd",
+    "source": "coastguard.gov.bd",
+    "tags": [
+      "coast-guard",
+      "defense",
+      "pension"
+    ]
+  },
+  {
+    "title": "Constable / Sub-Inspector (attached)",
+    "organization": "Rapid Action Battalion (RAB)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Law Enforcement",
+    "qualification": "HSC/Graduate; physical & fitness standards",
+    "ageLimit": "18-28 years",
+    "salaryScale": "Police/Defense pay scale + allowances",
+    "description": "এলিট ফোর্স RAB-এ নিয়োগ (সংযুক্তি ও সরাসরি পদ)।",
+    "applyLink": "http://police.teletalk.com.bd",
+    "source": "rab.gov.bd",
+    "tags": [
+      "RAB",
+      "law-enforcement",
+      "pension"
+    ]
+  },
+  {
+    "title": "Scientific Officer / Sub-Assistant Engineer",
+    "organization": "Bangladesh Atomic Energy Commission (BAEC)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Science & Research",
+    "qualification": "B.Sc/M.Sc/Engineering (relevant)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9 — ৳22,000-53,060",
+    "description": "পরমাণু শক্তি কমিশনে গবেষণা ও কারিগরি পদে নিয়োগ।",
+    "applyLink": "http://baec.teletalk.com.bd",
+    "source": "baec.gov.bd",
+    "tags": [
+      "atomic-energy",
+      "science",
+      "pension"
+    ]
+  },
+  {
+    "title": "Producer / Engineer / Cameraman",
+    "organization": "Bangladesh Television (BTV) & Bangladesh Betar",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Media / Broadcasting",
+    "qualification": "Bachelor's/Diploma (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9-14 (post-wise)",
+    "description": "রাষ্ট্রীয় টেলিভিশন ও বেতারে প্রযোজনা ও কারিগরি পদে নিয়োগ।",
+    "applyLink": "https://alljobs.teletalk.com.bd",
+    "source": "btv.gov.bd",
+    "tags": [
+      "media",
+      "broadcasting",
+      "pension"
+    ]
+  },
+  {
+    "title": "Assistant Engineer / Officer / Meter Reader",
+    "organization": "Dhaka WASA / DESCO / DPDC",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Utility (Water & Power)",
+    "qualification": "B.Sc Engineering / Diploma / Bachelor's (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Corporation pay scale (CPF + gratuity; scheme varies)",
+    "description": "পানি ও বিদ্যুৎ বিতরণ সংস্থায় কারিগরি ও প্রশাসনিক পদে নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "dwasa.org.bd",
+    "tags": [
+      "utility",
+      "water",
+      "power"
+    ]
+  },
+  {
+    "title": "Officer / Assistant Engineer",
+    "organization": "Bangladesh Chemical Industries Corporation (BCIC)",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Industry (Corporation)",
+    "qualification": "Engineering/Bachelor's (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Corporation pay scale",
+    "description": "সার ও রাসায়নিক শিল্প কারখানায় নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "bcic.gov.bd",
+    "tags": [
+      "BCIC",
+      "industry"
+    ]
+  },
+  {
+    "title": "Assistant Manager / Officer (various)",
+    "organization": "Petrobangla Companies (BGFCL/SGFL/GTCL/Jalalabad)",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Oil, Gas & Energy",
+    "qualification": "Engineering/Bachelor's (post-wise)",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Corporation pay scale (CPF + gratuity)",
+    "description": "পেট্রোবাংলার অধীন গ্যাস উৎপাদন ও সঞ্চালন কোম্পানিতে নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "petrobangla.org.bd",
+    "tags": [
+      "gas",
+      "energy",
+      "petrobangla"
+    ]
+  },
+  {
+    "title": "Sub-Registrar / Office Assistant",
+    "organization": "Directorate of Registration & Land Offices",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Land & Registration",
+    "qualification": "LL.B (Sub-Registrar) / Bachelor's (support posts)",
+    "ageLimit": "21-30 years (post-wise)",
+    "salaryScale": "Grade 9-16 (post-wise)",
+    "description": "সাব-রেজিস্ট্রি ও ভূমি অফিসে নিয়োগ।",
+    "applyLink": "https://alljobs.teletalk.com.bd",
+    "source": "minland.gov.bd",
+    "tags": [
+      "land",
+      "sub-registrar",
+      "pension"
+    ]
+  },
+  {
+    "title": "Senior Staff Nurse / Midwife",
+    "organization": "Directorate General of Nursing & Midwifery (DGNM)",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Health / Nursing",
+    "qualification": "B.Sc Nursing / Diploma in Nursing + BNMC registration",
+    "ageLimit": "21-30 years",
+    "salaryScale": "Grade 10 — ৳16,000-38,640",
+    "description": "সরকারি হাসপাতালে সিনিয়র স্টাফ নার্স নিয়োগ।",
+    "applyLink": "http://dgnm.teletalk.com.bd",
+    "source": "dgnm.gov.bd",
+    "tags": [
+      "nursing",
+      "health",
+      "pension"
+    ]
+  },
+  {
+    "title": "Forester / Forest Ranger / Wildlife Scout",
+    "organization": "Bangladesh Forest Department",
+    "category": "government",
+    "pensionIncluded": true,
+    "sector": "Forest & Environment",
+    "qualification": "SSC/HSC/Diploma in Forestry (post-wise); physical standards",
+    "ageLimit": "18-30 years",
+    "salaryScale": "Grade 9-16 (post-wise)",
+    "description": "বন সংরক্ষণ ও বন্যপ্রাণী ব্যবস্থাপনায় নিয়োগ।",
+    "applyLink": "http://bfd.teletalk.com.bd",
+    "source": "bforest.gov.bd",
+    "tags": [
+      "forest",
+      "environment",
+      "pension"
+    ]
+  },
+  {
+    "title": "Senior Officer / Officer (General/Cash)",
+    "organization": "Rupali Bank PLC",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "State-owned Bank",
+    "qualification": "Bachelor's/Master's with required CGPA",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale (CPF + gratuity)",
+    "description": "রাষ্ট্রায়ত্ত রূপালী ব্যাংকে অফিসার নিয়োগ — BSCS।",
+    "applyLink": "https://erecruitment.bb.org.bd",
+    "source": "rupalibank.org",
+    "tags": [
+      "bank",
+      "officer",
+      "BSCS"
+    ]
+  },
+  {
+    "title": "Officer / Assistant Officer",
+    "organization": "Karmasangsthan Bank / Probashi Kalyan Bank / Palli Sanchay Bank",
+    "category": "government",
+    "pensionIncluded": false,
+    "sector": "Specialized Bank",
+    "qualification": "Bachelor's/Master's",
+    "ageLimit": "Up to 30 years",
+    "salaryScale": "Bank pay scale",
+    "description": "বিশেষায়িত সরকারি ব্যাংকে অফিসার নিয়োগ।",
+    "applyLink": "https://www.bdjobs.com",
+    "source": "karmasangsthanbank.gov.bd",
+    "tags": [
+      "bank",
+      "specialized",
+      "officer"
+    ]
+  }
+]

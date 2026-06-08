@@ -1,0 +1,259 @@
+[
+  {
+    "jobName": "45th BCS",
+    "organization": "Bangladesh Public Service Commission",
+    "isApplied": true,
+    "appliedDate": "2025-12-10",
+    "examDate": "2026-05-09",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "passed"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      },
+      {
+        "name": "Viva",
+        "status": "pending"
+      }
+    ],
+    "notes": "Preliminary পাস হয়েছে, written-এর প্রস্তুতি চলছে।"
+  },
+  {
+    "jobName": "Assistant Director",
+    "organization": "Bangladesh Bank",
+    "isApplied": true,
+    "appliedDate": "2025-11-20",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "passed"
+      },
+      {
+        "name": "Written",
+        "status": "passed"
+      },
+      {
+        "name": "Viva",
+        "status": "pending"
+      }
+    ],
+    "notes": "Viva-র জন্য ডাক পেয়েছি।"
+  },
+  {
+    "jobName": "Senior Officer (Combined 8 Banks)",
+    "organization": "Bankers' Selection Committee",
+    "isApplied": true,
+    "appliedDate": "2026-01-05",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "pending"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Assistant Teacher",
+    "organization": "Directorate of Primary Education",
+    "isApplied": true,
+    "appliedDate": "2025-10-15",
+    "stages": [
+      {
+        "name": "Written",
+        "status": "passed"
+      },
+      {
+        "name": "Viva",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Registered Teacher (18th NTRCA)",
+    "organization": "NTRCA",
+    "isApplied": true,
+    "appliedDate": "2025-09-30",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "passed"
+      },
+      {
+        "name": "Written",
+        "status": "passed"
+      },
+      {
+        "name": "Viva",
+        "status": "passed"
+      }
+    ],
+    "notes": "মেধাতালিকায় উত্তীর্ণ — e-requisition এর অপেক্ষায়।"
+  },
+  {
+    "jobName": "Sub-Assistant Engineer",
+    "organization": "Bangladesh Railway",
+    "isApplied": false,
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "pending"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": "সার্কুলার দেখেছি, এখনো আবেদন করিনি।"
+  },
+  {
+    "jobName": "Assistant Engineer (Civil)",
+    "organization": "Bangladesh Water Development Board (BWDB)",
+    "isApplied": true,
+    "appliedDate": "2025-12-28",
+    "stages": [
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Deputy Assistant Director",
+    "organization": "Anti-Corruption Commission (ACC)",
+    "isApplied": true,
+    "appliedDate": "2026-01-12",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "pending"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      },
+      {
+        "name": "Viva",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Officer (General)",
+    "organization": "Sonali Bank PLC",
+    "isApplied": true,
+    "appliedDate": "2025-11-02",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "failed"
+      }
+    ],
+    "notes": "Preliminary তে হয়নি — পরেরবার আরও প্রস্তুতি নেব।"
+  },
+  {
+    "jobName": "Assistant Engineer / Sub-Assistant Engineer",
+    "organization": "Bangladesh Rural Electrification Board (BREB)",
+    "isApplied": false,
+    "stages": [
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": "ডেডলাইন কাছাকাছি — আবেদন করতে হবে।"
+  },
+  {
+    "jobName": "Assistant Commissioner of Customs",
+    "organization": "National Board of Revenue (NBR)",
+    "isApplied": true,
+    "appliedDate": "2025-12-18",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "pending"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Sub-Inspector (SI)",
+    "organization": "Bangladesh Police",
+    "isApplied": true,
+    "appliedDate": "2025-10-25",
+    "stages": [
+      {
+        "name": "Physical",
+        "status": "passed"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": "শারীরিক পরীক্ষা পাস।"
+  },
+  {
+    "jobName": "Statistical Officer",
+    "organization": "Bangladesh Bureau of Statistics (BBS)",
+    "isApplied": false,
+    "stages": [
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Senior Officer",
+    "organization": "Bangladesh Krishi Bank",
+    "isApplied": true,
+    "appliedDate": "2026-01-08",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "pending"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "jobName": "Assistant Judge (BJS)",
+    "organization": "Bangladesh Judicial Service Commission",
+    "isApplied": true,
+    "appliedDate": "2025-11-15",
+    "stages": [
+      {
+        "name": "Preliminary",
+        "status": "passed"
+      },
+      {
+        "name": "Written",
+        "status": "pending"
+      },
+      {
+        "name": "Viva",
+        "status": "pending"
+      }
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "lokkho",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Job Preparation Management App — backend + frontend monorepo",
+  "author": "Md Rejoyan Islam <rejoyanislam0014@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "concurrently -k -n backend,frontend -c blue,green \"bun run dev:backend\" \"bun run dev:frontend\"",
+    "dev:backend": "cd backend && bun run dev",
+    "dev:frontend": "cd frontend && bun run dev",
+    "start": "concurrently -k -n backend,frontend -c blue,green \"cd backend && bun run start\" \"cd frontend && bun run start\"",
+    "build": "cd frontend && bun run build",
+    "seed": "cd backend && bun run seed",
+    "seed:jobs": "cd backend && bun run seed:jobs",
+    "install:all": "bun install && cd backend && bun install && cd ../frontend && bun install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

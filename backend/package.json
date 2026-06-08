@@ -1,0 +1,52 @@
+{
+  "name": "lokkho-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend API for Job Preparation Management App",
+  "author": "Md Rejoyan Islam <rejoyanislam0014@gmail.com>",
+  "license": "UNLICENSED",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "bun run src/server.ts",
+    "dev": "bun --watch src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "seed": "bun run src/seed/seed.ts",
+    "seed:jobs": "bun run src/seed/seedJobs.ts",
+    "seed:topics": "bun run src/seed/seedImportantTopics.ts",
+    "seed:applications": "bun run src/seed/seedApplications.ts",
+    "seed:planner": "bun run src/seed/seedPlanner.ts",
+    "seed:resources": "bun run src/seed/seedResources.ts",
+    "seed:modules": "bun run src/seed/seedModules.ts",
+    "seed:subjects": "bun run src/seed/seedSubjects.ts",
+    "seed:books": "bun run src/seed/seedBooks.ts",
+    "seed:questions": "bun run src/seed/seedQuestions.ts",
+    "seed:clone": "bun run src/seed/seedClone.ts"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "helmet": "^8.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.6.3",
+    "morgan": "^1.11.0",
+    "nodemailer": "^8.0.10",
+    "swagger-ui-express": "^5.0.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/morgan": "^1.9.10",
+    "@types/node": "^25.9.2",
+    "@types/nodemailer": "^8.0.0",
+    "@types/swagger-ui-express": "^4.1.8",
+    "typescript": "^6.0.3"
+  }
+}

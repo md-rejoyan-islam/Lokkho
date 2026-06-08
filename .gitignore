@@ -1,0 +1,35 @@
+# ---- Dependencies ----
+node_modules/
+
+# ---- Environment / secrets ----
+# Keep .env.example committed; ignore everything else
+.env
+.env.*
+!.env.example
+*.local
+
+# ---- Build output ----
+backend/dist/
+frontend/.next/
+frontend/out/
+frontend/build/
+*.tsbuildinfo
+
+# ---- Logs ----
+*.log
+npm-debug.log*
+yarn-debug.log*
+bun-debug.log*
+.claude/
+
+# ---- Test / coverage ----
+coverage/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Note: bun.lock files ARE committed (do not ignore them).

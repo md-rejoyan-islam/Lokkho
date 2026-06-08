@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Preposition",
+    "subject": "English",
+    "priority": "high",
+    "note": "good at / good in পার্থক্য জানা জরুরি।"
+  },
+  {
+    "title": "Right Form of Verbs",
+    "subject": "English",
+    "priority": "high",
+    "note": "প্রতিটি পরীক্ষায় আসে।"
+  },
+  {
+    "title": "Subject-Verb Agreement",
+    "subject": "English",
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "title": "Phrase & Idioms",
+    "subject": "English",
+    "priority": "medium",
+    "note": "common idioms মুখস্থ রাখুন।"
+  },
+  {
+    "title": "Voice & Narration",
+    "subject": "English",
+    "priority": "medium",
+    "note": ""
+  },
+  {
+    "title": "সন্ধি বিচ্ছেদ",
+    "subject": "Bangla",
+    "priority": "high",
+    "note": "স্বরসন্ধি ও ব্যঞ্জনসন্ধি।"
+  },
+  {
+    "title": "সমাস",
+    "subject": "Bangla",
+    "priority": "high",
+    "note": "ষষ্ঠী তৎপুরুষ বেশি আসে।"
+  },
+  {
+    "title": "কারক ও বিভক্তি",
+    "subject": "Bangla",
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "title": "বাগধারা",
+    "subject": "Bangla",
+    "priority": "medium",
+    "note": "অর্থ সহ মুখস্থ রাখুন।"
+  },
+  {
+    "title": "বানান শুদ্ধি",
+    "subject": "Bangla",
+    "priority": "medium",
+    "note": ""
+  },
+  {
+    "title": "শতকরা (Percentage)",
+    "subject": "Math",
+    "priority": "high",
+    "note": "লাভ-ক্ষতি ও সুদের ভিত্তি।"
+  },
+  {
+    "title": "সুদকষা (Interest)",
+    "subject": "Math",
+    "priority": "high",
+    "note": "সরল ও চক্রবৃদ্ধি সুদ।"
+  },
+  {
+    "title": "অনুপাত-সমানুপাত",
+    "subject": "Math",
+    "priority": "medium",
+    "note": ""
+  },
+  {
+    "title": "নৌকা ও স্রোত",
+    "subject": "Math",
+    "priority": "low",
+    "note": "সূত্র মনে রাখলেই হয়।"
+  },
+  {
+    "title": "বাংলাদেশের সংবিধান",
+    "subject": "Bangladesh Affairs",
+    "priority": "high",
+    "note": "গুরুত্বপূর্ণ অনুচ্ছেদ ও সংশোধনী।"
+  },
+  {
+    "title": "মুক্তিযুদ্ধ ১৯৭১",
+    "subject": "Bangladesh Affairs",
+    "priority": "high",
+    "note": "সেক্টর, খেতাব, তারিখ।"
+  },
+  {
+    "title": "নাম্বার সিস্টেম",
+    "subject": "ICT",
+    "priority": "medium",
+    "note": "বাইনারি/ডেসিমাল রূপান্তর।"
+  },
+  {
+    "title": "দৈনন্দিন বিজ্ঞান",
+    "subject": "Science",
+    "priority": "medium",
+    "note": "ভিটামিন, রোগ, এককের প্রশ্ন।"
+  }
+]

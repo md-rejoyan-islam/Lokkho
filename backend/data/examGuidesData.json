@@ -1,0 +1,870 @@
+[
+  {
+    "title": "Bank Officer (Combined) — Preliminary",
+    "category": "Bank",
+    "description": "Bankers' Selection Committee (BSCS) আয়োজিত সম্মিলিত ব্যাংক নিয়োগের প্রিলিমিনারি।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's (any discipline)",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর; কোনো ৩য় বিভাগ/শ্রেণি গ্রহণযোগ্য নয়।"
+  },
+  {
+    "title": "Primary Assistant Teacher",
+    "category": "Primary",
+    "description": "সরকারি প্রাথমিক বিদ্যালয়ে সহকারী শিক্ষক নিয়োগ পরীক্ষা।",
+    "totalMarks": 80,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "English",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (২য় শ্রেণি/সমমান)",
+    "eligibility": "বয়স ২১–৩০ বছর; নারী/পুরুষ উভয়ের জন্য।"
+  },
+  {
+    "title": "NTRCA School Level-2 (Preliminary)",
+    "category": "NTRCA",
+    "description": "বেসরকারি শিক্ষক নিবন্ধন — স্কুল পর্যায়ের প্রিলিমিনারি MCQ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 25,
+        "questionCount": 25
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (সংশ্লিষ্ট বিষয়)",
+    "eligibility": "নিবন্ধন পরীক্ষা — প্রিলিমিনারি, লিখিত ও ভাইভা।"
+  },
+  {
+    "title": "Bangladesh Bank — Assistant Director",
+    "category": "Bank",
+    "description": "কেন্দ্রীয় ব্যাংকে সহকারী পরিচালক (General) নিয়োগ।",
+    "totalMarks": 200,
+    "durationMinutes": 120,
+    "examPattern": [
+      {
+        "section": "English (Written)",
+        "marks": 100,
+        "questionCount": 0
+      },
+      {
+        "section": "Analytical Ability & Math",
+        "marks": 50,
+        "questionCount": 0
+      },
+      {
+        "section": "Bangladesh & Current Affairs",
+        "marks": 50,
+        "questionCount": 0
+      }
+    ],
+    "minCgpa": "3.00 (preferred)",
+    "degree": "Bachelor's/Master's with strong CGPA",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর; competitive লিখিত ও ভাইভা।"
+  },
+  {
+    "title": "Sub-Inspector (SI) — Bangladesh Police",
+    "category": "Other",
+    "description": "পুলিশ বাহিনীতে নিরস্ত্র উপ-পরিদর্শক (SI) নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 90,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 25,
+        "questionCount": 25
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (any discipline)",
+    "eligibility": "বয়স ১৯–২৭; উচ্চতা ও শারীরিক যোগ্যতা প্রযোজ্য।"
+  },
+  {
+    "title": "Railway — Sub-Assistant Engineer",
+    "category": "Railway",
+    "description": "বাংলাদেশ রেলওয়ের কারিগরি পদে নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 90,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Technical (Relevant)",
+        "marks": 30,
+        "questionCount": 30
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Diploma in Engineering (relevant)",
+    "eligibility": "বয়স ১৮–৩০; সংশ্লিষ্ট ট্রেডে ডিপ্লোমা।"
+  },
+  {
+    "title": "Sonali Bank — Officer (Cash)",
+    "category": "Bank",
+    "description": "রাষ্ট্রায়ত্ত ব্যাংকে অফিসার (ক্যাশ) নিয়োগ — BSCS।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  },
+  {
+    "title": "BCS Written Examination",
+    "category": "BCS",
+    "description": "BCS প্রিলিমিনারি উত্তীর্ণদের জন্য লিখিত পরীক্ষা (Cadre অনুযায়ী)।",
+    "totalMarks": 900,
+    "durationMinutes": 0,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 200,
+        "questionCount": 0
+      },
+      {
+        "section": "English",
+        "marks": 200,
+        "questionCount": 0
+      },
+      {
+        "section": "Bangladesh Affairs",
+        "marks": 200,
+        "questionCount": 0
+      },
+      {
+        "section": "International Affairs",
+        "marks": 100,
+        "questionCount": 0
+      },
+      {
+        "section": "Math & Mental Ability",
+        "marks": 100,
+        "questionCount": 0
+      },
+      {
+        "section": "Science & Technology",
+        "marks": 100,
+        "questionCount": 0
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (any discipline)",
+    "eligibility": "বয়স ২১–৩২ (কোটাভেদে শিথিলযোগ্য)।"
+  },
+  {
+    "title": "University Lecturer (Public University)",
+    "category": "Other",
+    "description": "পাবলিক বিশ্ববিদ্যালয়ে প্রভাষক নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 0,
+    "examPattern": [
+      {
+        "section": "Subject Written",
+        "marks": 70,
+        "questionCount": 0
+      },
+      {
+        "section": "Viva-voce",
+        "marks": 30,
+        "questionCount": 0
+      }
+    ],
+    "minCgpa": "3.50+ (both levels)",
+    "degree": "Master's in relevant subject (১ম শ্রেণি)",
+    "eligibility": "কোনো পর্যায়ে ৩য় বিভাগ/শ্রেণি নয়; গবেষণা/প্রকাশনা অগ্রাধিকার।"
+  },
+  {
+    "title": "Combined 8 Banks — Senior Officer",
+    "category": "Bank",
+    "description": "৮টি ব্যাংক/আর্থিক প্রতিষ্ঠানের সম্মিলিত সিনিয়র অফিসার নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  },
+  {
+    "title": "Primary Head Teacher",
+    "category": "Primary",
+    "description": "সরকারি প্রাথমিক বিদ্যালয়ের প্রধান শিক্ষক নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 70,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Pedagogy",
+        "marks": 10,
+        "questionCount": 10
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's; শিক্ষকতার অভিজ্ঞতা অগ্রাধিকার",
+    "eligibility": "বয়স ও অভিজ্ঞতা সার্কুলার অনুযায়ী।"
+  },
+  {
+    "title": "Audit & Accounts (BCS) — Preliminary Focus",
+    "category": "BCS",
+    "description": "BCS (Audit & Accounts) ক্যাডারমুখী প্রস্তুতি গাইড।",
+    "totalMarks": 200,
+    "durationMinutes": 120,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 35,
+        "questionCount": 35
+      },
+      {
+        "section": "English",
+        "marks": 35,
+        "questionCount": 35
+      },
+      {
+        "section": "Bangladesh Affairs",
+        "marks": 30,
+        "questionCount": 30
+      },
+      {
+        "section": "International Affairs",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Math & Mental Ability",
+        "marks": 30,
+        "questionCount": 30
+      },
+      {
+        "section": "Science, ICT, Geography, Ethics",
+        "marks": 50,
+        "questionCount": 50
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (any discipline)",
+    "eligibility": "বয়স ২১–৩২ বছর।"
+  },
+  {
+    "title": "47th BCS Preliminary",
+    "category": "BCS",
+    "description": "সর্বশেষ BCS প্রিলিমিনারি — পূর্ণ ২০০ মার্কের MCQ পরীক্ষা।",
+    "totalMarks": 200,
+    "durationMinutes": 120,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 35,
+        "questionCount": 35
+      },
+      {
+        "section": "English",
+        "marks": 35,
+        "questionCount": 35
+      },
+      {
+        "section": "Bangladesh Affairs",
+        "marks": 30,
+        "questionCount": 30
+      },
+      {
+        "section": "International Affairs",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Mathematical Reasoning",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "Mental Ability",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "General Science",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "Ethics & Good Governance",
+        "marks": 10,
+        "questionCount": 10
+      },
+      {
+        "section": "Geography & Environment",
+        "marks": 10,
+        "questionCount": 10
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (any discipline)",
+    "eligibility": "বয়স ২১–৩২ বছর (কোটাভেদে শিথিলযোগ্য)।"
+  },
+  {
+    "title": "Combined 5 Banks — Officer (General)",
+    "category": "Bank",
+    "description": "সম্মিলিত ৫ ব্যাংক/আর্থিক প্রতিষ্ঠানের অফিসার (General) নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  },
+  {
+    "title": "Janata Bank — Executive Officer (EO)",
+    "category": "Bank",
+    "description": "জনতা ব্যাংকে এক্সিকিউটিভ অফিসার নিয়োগ — BSCS।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  },
+  {
+    "title": "Agrani Bank — Senior Officer",
+    "category": "Bank",
+    "description": "অগ্রণী ব্যাংকে সিনিয়র অফিসার নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "2.50 (each level)",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  },
+  {
+    "title": "NTRCA College Level (Preliminary)",
+    "category": "NTRCA",
+    "description": "বেসরকারি শিক্ষক নিবন্ধন — কলেজ পর্যায়ের প্রিলিমিনারি।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 25,
+        "questionCount": 25
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Master's (সংশ্লিষ্ট বিষয়)",
+    "eligibility": "প্রিলিমিনারি, লিখিত ও ভাইভা।"
+  },
+  {
+    "title": "Railway — Station Master / Guard",
+    "category": "Railway",
+    "description": "বাংলাদেশ রেলওয়ের পরিচালন (Traffic) বিভাগে নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 90,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "English",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Technical / Railway",
+        "marks": 20,
+        "questionCount": 20
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's/Diploma (post-wise)",
+    "eligibility": "বয়স ১৮–৩০ বছর।"
+  },
+  {
+    "title": "Assistant Judge (BJS) — Preliminary",
+    "category": "Other",
+    "description": "বিচার বিভাগীয় সার্ভিসে সহকারী জজ নিয়োগ পরীক্ষা।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Law (Substantive & Procedural)",
+        "marks": 60,
+        "questionCount": 60
+      },
+      {
+        "section": "Bangla",
+        "marks": 10,
+        "questionCount": 10
+      },
+      {
+        "section": "English",
+        "marks": 10,
+        "questionCount": 10
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "LL.B (Hons)/LL.M",
+    "eligibility": "বয়স ২১–৩২ বছর।"
+  },
+  {
+    "title": "Senior Staff Nurse (DGNM)",
+    "category": "Other",
+    "description": "সরকারি হাসপাতালে সিনিয়র স্টাফ নার্স নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Nursing (Professional)",
+        "marks": 60,
+        "questionCount": 60
+      },
+      {
+        "section": "Bangla",
+        "marks": 10,
+        "questionCount": 10
+      },
+      {
+        "section": "English",
+        "marks": 10,
+        "questionCount": 10
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "B.Sc/Diploma in Nursing + BNMC registration",
+    "eligibility": "বয়স ২১–৩০ বছর।"
+  },
+  {
+    "title": "Anti-Corruption Commission (ACC) — Assistant Director",
+    "category": "Other",
+    "description": "দুর্নীতি দমন কমিশনে সহকারী পরিচালক নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 70,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "ICT",
+        "marks": 10,
+        "questionCount": 10
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's/Master's with required CGPA",
+    "eligibility": "বয়স ১৮–৩০ বছর।"
+  },
+  {
+    "title": "Palli Bidyut Samity (BREB) — Assistant",
+    "category": "Other",
+    "description": "পল্লী বিদ্যুৎ সমিতি/বোর্ডে কারিগরি ও প্রশাসনিক পদে নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 90,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "English",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Technical / Electrical",
+        "marks": 20,
+        "questionCount": 20
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Diploma/Bachelor's (post-wise)",
+    "eligibility": "বয়স ১৮–৩০ বছর।"
+  },
+  {
+    "title": "Customs, Excise & VAT — Departmental",
+    "category": "Other",
+    "description": "শুল্ক, আবগারি ও ভ্যাট বিভাগে সহায়ক পদে নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 70,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "English",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "Mathematics",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's (any discipline)",
+    "eligibility": "বয়স ১৮–৩০ বছর।"
+  },
+  {
+    "title": "Insurance Officer (Jiban/Sadharan Bima)",
+    "category": "Other",
+    "description": "রাষ্ট্রীয় বীমা কর্পোরেশনে অফিসার নিয়োগ।",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "examPattern": [
+      {
+        "section": "Bangla",
+        "marks": 15,
+        "questionCount": 15
+      },
+      {
+        "section": "English",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "Mathematics",
+        "marks": 25,
+        "questionCount": 25
+      },
+      {
+        "section": "General Knowledge",
+        "marks": 20,
+        "questionCount": 20
+      },
+      {
+        "section": "ICT",
+        "marks": 15,
+        "questionCount": 15
+      }
+    ],
+    "minCgpa": "—",
+    "degree": "Bachelor's/Master's",
+    "eligibility": "বয়স সর্বোচ্চ ৩০ বছর।"
+  }
+]

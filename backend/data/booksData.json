@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Professor's Job Solution",
+    "author": "Professor's Publication",
+    "subject": "General",
+    "description": "সরকারি চাকরির প্রস্তুতির সবচেয়ে জনপ্রিয় সমাধান-গাইড — পূর্ববর্তী প্রশ্ন ও সমাধান।"
+  },
+  {
+    "title": "Professor's Bank Job Solution",
+    "author": "Professor's Publication",
+    "subject": "Bank",
+    "description": "ব্যাংক নিয়োগ পরীক্ষার পূর্ণাঙ্গ প্রশ্ন-সমাধান ও General Knowledge অংশ।"
+  },
+  {
+    "title": "Khairul's Basic Math",
+    "author": "Md. Khairul Alam",
+    "subject": "Math",
+    "description": "বেসিক ম্যাথ শেখার জন্য সবচেয়ে জনপ্রিয় বই — concept ও shortcut সহ।"
+  },
+  {
+    "title": "Saifur's Math",
+    "author": "Saifur's Publication",
+    "subject": "Math",
+    "description": "প্রতিযোগিতামূলক পরীক্ষার গণিতের ট্রিক্স ও সমাধান।"
+  },
+  {
+    "title": "Oracle BCS Math & Analytical Ability",
+    "author": "Oracle Publications",
+    "subject": "Math",
+    "description": "BCS-মুখী গণিত ও মানসিক দক্ষতার বিস্তারিত গাইড।"
+  },
+  {
+    "title": "MP3 সাধারণ জ্ঞান — বাংলাদেশ বিষয়াবলি",
+    "author": "MP3 Publications",
+    "subject": "General Knowledge",
+    "description": "বাংলাদেশ বিষয়াবলির বহুল ব্যবহৃত রেফারেন্স বই।"
+  },
+  {
+    "title": "MP3 সাধারণ জ্ঞান — আন্তর্জাতিক বিষয়াবলি",
+    "author": "MP3 Publications",
+    "subject": "General Knowledge",
+    "description": "আন্তর্জাতিক বিষয়াবলির পূর্ণাঙ্গ সংকলন।"
+  },
+  {
+    "title": "Saifur's Vocabulary",
+    "author": "Saifur Rahman Khan",
+    "subject": "English",
+    "description": "ইংরেজি শব্দভাণ্ডার বাড়ানোর জনপ্রিয় বই।"
+  },
+  {
+    "title": "A Handbook on English Literature",
+    "author": "Sharif Hossain Ahmad Chowdhury",
+    "subject": "English",
+    "description": "BCS ও বিশ্ববিদ্যালয় পর্যায়ের English Literature রেফারেন্স।"
+  },
+  {
+    "title": "A Gateway to English Literature",
+    "author": "Shamim Ahmed",
+    "subject": "English",
+    "description": "English Literature-এর সহজবোধ্য পরিচিতি ও প্রশ্নভিত্তিক আলোচনা।"
+  },
+  {
+    "title": "Saifur's English Grammar",
+    "author": "Saifur Rahman Khan",
+    "subject": "English",
+    "description": "প্রতিযোগিতামূলক পরীক্ষার জন্য জনপ্রিয় ইংরেজি ব্যাকরণ বই।"
+  },
+  {
+    "title": "MP3 বাংলা ভাষা ও সাহিত্য",
+    "author": "MP3 Publications",
+    "subject": "Bangla",
+    "description": "বাংলা ভাষা ও সাহিত্যের পূর্ণাঙ্গ প্রস্তুতি।"
+  },
+  {
+    "title": "Professor's Primary Teacher Recruitment Guide",
+    "author": "Professor's Publication",
+    "subject": "Primary",
+    "description": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষার গাইড।"
+  },
+  {
+    "title": "Current Affairs (মাসিক)",
+    "author": "Professor's Publication",
+    "subject": "General Knowledge",
+    "description": "সাম্প্রতিক জাতীয় ও আন্তর্জাতিক ঘটনাবলির মাসিক ম্যাগাজিন।"
+  }
+]
