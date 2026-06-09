@@ -7,6 +7,10 @@ const AUTH_ENTRY = ["/login", "/register", "/forgot-password"];
 
 export function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
+
+  // Never intercept static files (e.g. /logo.png, /favicon.ico) — let them serve.
+  if (pathname.includes(".")) return NextResponse.next();
+
   const authed = req.cookies.get(AUTH_COOKIE)?.value === "1";
 
   if (pathname === "/") {
@@ -25,5 +29,6 @@ export function proxy(req: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml).*)"],
+  // Skip Next internals and any path with a file extension (static assets like /logo.png).
+  matcher: ["/((?!_next/static|_next/image|.*\\..*).*)"],
 };
