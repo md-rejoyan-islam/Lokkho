@@ -44,6 +44,11 @@ export const metadata = {
   publisher: "Md Rejoyan Islam",
   applicationName: "Lokkho",
   category: "education",
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
@@ -53,12 +58,14 @@ export const metadata = {
     title: "Lokkho — BCS, Bank, Primary & Govt Job Preparation",
     description:
       "যেকোনো চাকরির প্রস্তুতি এক জায়গায় — exam guide, syllabus, previous year questions, study planner ও job list।",
+    images: [{ url: "/logo.png", width: 633, height: 548, alt: "Lokkho" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Lokkho — Job Preparation Manager",
     description:
       "BCS, Bank, Primary, Railway সহ যেকোনো চাকরির প্রস্তুতি এক জায়গায়।",
+    images: ["/logo.png"],
   },
   robots: {
     index: true,
@@ -76,6 +83,7 @@ const jsonLd = {
   applicationCategory: "EducationApplication",
   operatingSystem: "Web",
   inLanguage: "bn-BD",
+  image: `${SITE_URL}/logo.png`,
   description:
     "BCS, Bank, Primary, Railway সহ যেকোনো সরকারি-বেসরকারি চাকরির প্রস্তুতি এক জায়গায় — exam guide, syllabus, previous year questions, study planner ও job list।",
   offers: { "@type": "Offer", price: "0", priceCurrency: "BDT" },
