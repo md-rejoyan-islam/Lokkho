@@ -29,9 +29,10 @@ ENV PORT=3000
 ENV HOSTNAME=0.0.0.0
 
 # Standalone bundles a trimmed node_modules + server.js; static assets are separate
+# and MUST be copied in manually (standalone does not include .next/static or public/).
 COPY --from=builder --chown=bun:bun /app/.next/standalone ./
 COPY --from=builder --chown=bun:bun /app/.next/static ./.next/static
-# (this app has no public/ dir; add `COPY --from=builder /app/public ./public` if you create one)
+COPY --from=builder --chown=bun:bun /app/public ./public
 
 EXPOSE 3000
 USER bun
