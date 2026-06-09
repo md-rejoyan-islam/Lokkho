@@ -25,7 +25,7 @@ FROM oven/bun:1.3-alpine AS runner
 WORKDIR /app
 ENV NODE_ENV=production
 ENV NEXT_TELEMETRY_DISABLED=1
-ENV PORT=3010
+ENV PORT=3000
 ENV HOSTNAME=0.0.0.0
 
 # Standalone bundles a trimmed node_modules + server.js; static assets are separate
@@ -37,6 +37,6 @@ EXPOSE 3010
 USER bun
 
 HEALTHCHECK --interval=30s --timeout=3s --start-period=15s --retries=3 \
-  CMD wget -qO- http://127.0.0.1:3010/login || exit 1
+  CMD wget -qO- http://127.0.0.1:3000/login || exit 1
 
 CMD ["bun", "server.js"]
