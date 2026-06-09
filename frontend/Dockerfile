@@ -33,7 +33,7 @@ COPY --from=builder --chown=bun:bun /app/.next/standalone ./
 COPY --from=builder --chown=bun:bun /app/.next/static ./.next/static
 # (this app has no public/ dir; add `COPY --from=builder /app/public ./public` if you create one)
 
-EXPOSE 3010
+EXPOSE 3000
 USER bun
 
 HEALTHCHECK --interval=30s --timeout=3s --start-period=15s --retries=3 \
