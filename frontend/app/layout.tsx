@@ -15,7 +15,8 @@ const hind = Hind_Siliguri({
   display: "swap",
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://lokkho.rejoyan.me";
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
@@ -39,7 +40,9 @@ export const metadata = {
     "bank job circular",
     "job preparation app",
   ],
-  authors: [{ name: "Md Rejoyan Islam", url: "mailto:rejoyanislam0014@gmail.com" }],
+  authors: [
+    { name: "Md Rejoyan Islam", url: "mailto:rejoyanislam0014@gmail.com" },
+  ],
   creator: "Md Rejoyan Islam",
   publisher: "Md Rejoyan Islam",
   applicationName: "Lokkho",
